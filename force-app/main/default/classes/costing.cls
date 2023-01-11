@@ -8,4 +8,7 @@ public with sharing class costing {
     public subtract(integer a, integer b){
         return a-b;
     }
+    public multiply(integer a, integer b){
+        return a*b;
+    }
 }
